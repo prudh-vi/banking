@@ -30,7 +30,7 @@ A machine learning-based system for detecting fraudulent banking transactions in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/prudh-vi/banking.git
+git clone https://github.com/prudh-vi/fraud-detection-svm.git
 ```
 
 2. To run:
